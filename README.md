@@ -1,10 +1,10 @@
 # Swiss Water Level Monitor
 
-Automatically monitor water levels at Swiss hydrological station #2018 (Reuss - Mellingen) and receive notifications when thresholds are exceeded.
+Automatically monitor water levels/flow rate at Swiss hydrological station #2018 (Reuss - Mellingen) and receive notifications when thresholds are exceeded.
 
 ## Features
 
-- 🌊 Monitors water level data from the Swiss government hydrology service
+- 🌊 Monitors water level/flow rate data from the Swiss government hydrology service
 - 🔔 Sends alerts when water levels cross your defined threshold
 - 📱 Supports both email and mobile push notifications (via Pushover)
 - 🤖 Runs automatically via GitHub Actions (no server needed)
